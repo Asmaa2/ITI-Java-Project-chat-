@@ -15,5 +15,4 @@
     
     
     3. Run the jar file of the server.
-    ![Image](https://github.com/Asmaa2/ITI-Java-Project-chat-/blob/master/screenShots/server/Screenshot%20from%202018-01-23%2014-34-29.png)
-
+    ![Image](https://github.com/AsmaaHassenIbrahem/ITI-Java-Project-chat-/blob/master/screenShots/client/Screenshot%20from%202018-01-23%2014-37-39.png)
