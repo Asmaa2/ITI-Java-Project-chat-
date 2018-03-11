@@ -15,5 +15,5 @@
     
     
     3. Run the jar file of the server.
-    ![alt tag](https://github.com/Asmaa2/ITI-Java-Project-chat-/blob/master/screenShots/server/Screenshot%20from%202018-01-23%2014-34-29.png "dd")
+    ![Image](https://github.com/Asmaa2/ITI-Java-Project-chat-/blob/master/screenShots/server/Screenshot%20from%202018-01-23%2014-34-29.png)
 
