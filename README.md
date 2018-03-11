@@ -13,6 +13,5 @@
     File file = new File("/home/asmaa/Desktop/"+fileName);
     put path related by ur pc .
     
-    
     3. Run the jar file of the server.
     ![Image](https://github.com/AsmaaHassenIbrahem/ITI-Java-Project-chat-/blob/master/screenShots/client/Screenshot%20from%202018-01-23%2014-37-39.png)
